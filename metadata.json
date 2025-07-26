@@ -1,0 +1,5 @@
+{
+  "name": "Asisten Debugger Kode Canva",
+  "description": "Asisten AI untuk membantu Anda melakukan debug dan menyempurnakan prompt Canva Code Anda. Tempel kode Anda, unggah screenshot (opsional), dan dapatkan analisis ahli.",
+  "requestFramePermissions": []
+}
